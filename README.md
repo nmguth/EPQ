@@ -10,5 +10,7 @@ Here is a list of all the files in this repo, and their purpose (the odd naming 
 	 -  The working list of musical samples I had made
  - Presontation
 	 - The working directory for the multiple versions of my powerpoint.
+ - Resources
+ 	 - A compilation of the various written and audio sources I used throughout my project.
  - Write Up
 	 - The various drafts of my write-up as I was writing them.
