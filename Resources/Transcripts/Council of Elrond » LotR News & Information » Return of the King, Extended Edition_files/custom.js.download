@@ -1,0 +1,5 @@
+jQuery( document ).ready(function() {
+    
+	jQuery(".sp-flipping-link").attr("href", "http://www.councilofelrond.com/register/");
+
+});
