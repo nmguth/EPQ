@@ -1,7 +1,7 @@
 # Extended Project Qualification
 **EPQ project by Nathan Guth**
 This repository is an archive of my project I did alongside my A-Levels during the academic year 2018-19.
-Here is a list of all the files in this repo, and their purpose (the odd naming scheme was my trying to stay organised working off a USB stick):
+Here is a list of all the files in this repo, and their purpose (the odd naming scheme was me trying to stay organised working off a USB stick):
 
 
 - ALL FINAL AND SENT
