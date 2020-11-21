@@ -8,7 +8,7 @@ Here is a list of all the files in this repo, and their purpose:
 	 - The entirety of my project as it was sent to the exam board
  - Audio works
 	 -  The working list of musical samples I had made
- - Presontation
+ - Presentation
 	 - The working directory for the multiple versions of my powerpoint.
  - Resources
  	 - A compilation of the various written and audio sources I used throughout my project.
