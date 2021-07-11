@@ -4,7 +4,7 @@ This repository is an archive of my project I did alongside my A-Levels during t
 Here is a list of all the files in this repo, and their purpose:
 
 
-- ALL FINAL AND SENT
+- FINAL
 	 - The entirety of my project as it was sent to the exam board
  - Audio works
 	 -  The working list of musical samples I had made
